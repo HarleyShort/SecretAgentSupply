@@ -1,0 +1,24 @@
+understand,
+identify,
+execute,
+body{
+  text-align: center;
+  font-family: helvetica;
+
+}
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+h4{
+  color: white;
+}
+body {
+   background-image: url("resources/broadway - background.png");
+   background-color: #cccccc;
+   background-repeat: no-repeat;
+}
+#NY{
+  background-image: image("resources/broadway - background.png");
+}
